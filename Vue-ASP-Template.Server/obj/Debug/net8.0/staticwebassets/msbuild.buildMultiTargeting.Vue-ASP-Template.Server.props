@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vue-ASP-Template.Server.props" />
+</Project>

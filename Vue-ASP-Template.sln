@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vue-ASP-Template.Server", "Vue-ASP-Template.Server\Vue-ASP-Template.Server.csproj", "{AEA17F1D-B791-4F8F-864C-17251F68CD45}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vue-asp-template.client", "vue-asp-template.client\vue-asp-template.client.esproj", "{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA17F1D-B791-4F8F-864C-17251F68CD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA17F1D-B791-4F8F-864C-17251F68CD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA17F1D-B791-4F8F-864C-17251F68CD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA17F1D-B791-4F8F-864C-17251F68CD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE1AF0C-DB73-40AC-9DCE-8B05C371AA7F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C397A6BB-2DAA-4E61-9809-51EC3C29FEE9}
+	EndGlobalSection
+EndGlobal

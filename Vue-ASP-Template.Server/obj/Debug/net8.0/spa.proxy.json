@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\JPort\\source\\repos\\Vue-ASP-Template\\Vue-ASP-Template.Server\\..\\vue-asp-template.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

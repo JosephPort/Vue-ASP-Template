@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "QLh+R8s/+63kYI3J5pPX3mo6c5ms4HhYNWWZygTcdrs=",
+  "Source": "Vue-ASP-Template.Server",
+  "BasePath": "_content/Vue-ASP-Template.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\JPort\\source\\repos\\Vue-ASP-Template\\vue-asp-template.client\\vue-asp-template.client.esproj",
+      "Version": 2,
+      "Source": "vue-asp-template.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
